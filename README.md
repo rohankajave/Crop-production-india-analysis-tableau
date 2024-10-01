@@ -9,3 +9,6 @@ Season: Denotes the agricultural season (e.g., Kharif, Rabi) during which the cr
 Crop: Identifies the type of crop that was cultivated.
 Area: Represents the total land area used for cultivating the crop.
 Production: Indicates the total quantity of the crop produced from the specified area.
+
+
+View my Tableau-Project Dashboard on my Tableau Public Profile link - https://public.tableau.com/app/profile/rohan.kajave/viz/cropproductionindiaanalysis/Dashboard1?publish=yes
